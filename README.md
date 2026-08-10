@@ -110,18 +110,6 @@ Estudos e projetos de imersão.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Elton's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonbarbosaa&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonbarbosaa&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
