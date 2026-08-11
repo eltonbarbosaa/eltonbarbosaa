@@ -59,10 +59,6 @@
 
 <div align="center">
 
-| 📈 Contributions | 🔥 Streaks |
-|------------------|------------|
-| ![](https://github-readme-stats.vercel.app/api?username=eltonbarbosaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com?user=eltonbarbosaa&theme=tokyonight&hide_border=true) |
-
 | 💻 Languages | 📋 Summary |
 |--------------|---------------------|
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonbarbosaa&layout=compact&theme=tokyonight&hide_border=true&count_private=true) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltonbarbosaa&theme=tokyonight) |
