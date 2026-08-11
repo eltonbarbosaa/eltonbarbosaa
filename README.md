@@ -13,7 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 📌 &nbsp; Baseado no Brasil 🇧🇷
+- 📌 &nbsp; Brasil 🇧🇷
 - 🎓 &nbsp; Engenheiro de Computação — Universidade Federal do Pará (Campus Tucuruí)
 - 📚 &nbsp; Pós-graduando em Engenharia de Segurança do Trabalho e em Engenharia de Produção & Gestão de Projetos
 - 💼 &nbsp; Atuo na fronteira entre dados, IA e desenvolvimento de sistemas full stack
