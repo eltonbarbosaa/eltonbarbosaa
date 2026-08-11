@@ -1,127 +1,77 @@
 <div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60">
-
-# Elton Barbosa
-
-**Engenheiro de Computação · Analista de Dados & IA**
-
-*Power BI · Python · Machine Learning*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-elton--silva--barbosa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eltonsilvabarbosa/)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-![Profile Views](https://komarev.com/ghpvc/?username=eltonbarbosaa&color=0A66C2&style=flat-square)
-
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
----
+<h3 align="center">
+  Hi, I'm Elton Barbosa
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-## 👨‍💻 Sobre mim
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Engenheiro%20de%20Computa%C3%A7%C3%A3o;Dev%20Full%20Stack%20%26%20IA;Dados%2C%20Machine%20Learning%20%26%20Vis%C3%A3o%20Computacional;Sempre%20aprendendo%20algo%20novo;Fique%20%C3%A0%20vontade%20para%20olhar%20em%20volta%20%F0%9F%91%80;Fale%20comigo%20se%20precisar%20de%20ajuda!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
 
-Sou **Elton Barbosa**, Engenheiro de Computação formado pela **Universidade Federal do Pará (Campus Universitário de Tucuruí)**, pós-graduando em **Engenharia de Segurança do Trabalho** e em **Engenharia de Produção & Gestão de Projetos**.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-Atuo na fronteira entre **dados, inteligência artificial e desenvolvimento de sistemas** — do treinamento de modelos de visão computacional ao desenvolvimento de aplicações completas (backend, banco de dados, frontend).
+- 📌 &nbsp; Baseado no Brasil 🇧🇷
+- 🎓 &nbsp; Engenheiro de Computação — Universidade Federal do Pará (Campus Tucuruí)
+- 📚 &nbsp; Pós-graduando em Engenharia de Segurança do Trabalho e em Engenharia de Produção & Gestão de Projetos
+- 💼 &nbsp; Atuo na fronteira entre dados, IA e desenvolvimento de sistemas full stack
+- 💡 &nbsp; Foco em Análise de Dados, IA aplicada (Machine Learning / Visão Computacional), Power BI e Dev Full Stack
+- ⚡ &nbsp; Fun fact: automatizar um processo chato é tão bom quanto resolver o bug que travava o time
+- 📖 &nbsp; Sempre estudando algo novo — tecnologia e engenharia caminham juntas pra mim
 
-🎯 Meu foco: **Análise de Dados, IA aplicada (Machine Learning / Visão Computacional), Power BI e Desenvolvimento Full Stack**.
+## 🚀 Stacks
 
----
+**Dados & IA**
 
-## 🛠️ Stack atual
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+  ![YOLO](https://img.shields.io/badge/-YOLOv8%2Fv9%2Fv10-333333?style=flat&logo=yolo)
 
-```python
-elton = {
-    "foco":          ["Análise de Dados", "IA aplicada", "Machine Learning", "Desenvolvimento Full Stack"],
-    "linguagens":    ["Python", "PHP", "JavaScript", "SQL"],
-    "dados_e_bi":    ["Power BI", "Pandas", "NumPy"],
-    "ml_e_visao":    ["YOLOv8/v9/v10", "Ultralytics", "OpenCV", "Data Augmentation"],
-    "banco_dados":   ["MySQL", "MariaDB", "PDO"],
-    "web":           ["React", "Node.js", "HTML/CSS"],
-    "ferramentas":   ["Git", "GitHub", "Google Colab", "VS Code"],
-    "pos_graduacao": ["Eng. de Segurança do Trabalho", "Eng. de Produção & Gestão de Projetos"],
-}
-```
+**Back-end**
 
----
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
 
-## 🚀 Projetos em destaque
+**Front-end**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 
-#### [🎯 Sistema de Vigilância com IA (TCC)](https://github.com/eltonbarbosaa/tcc-yolo)
+**Development Tools**
 
-Detecção automática de armas e disfarces em vídeo, comparando três versões do YOLO.
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=lightgrey)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab)
+  ![Claude](https://img.shields.io/badge/-Claude%20Code-333333?style=flat&logo=anthropic)
 
-`Python` `YOLOv8/v9/v10` `OpenCV` `Ultralytics`
-
-- Treinamento e comparação de **YOLOv8, YOLOv9 e YOLOv10** no mesmo dataset
-- Pipeline de **data augmentation** (rotação, ruído gaussiano, recorte aleatório, ajuste de brilho/contraste)
-- Detecção em vídeo frame a frame com log de detecções
-- Treinamento reprodutível via Google Colab
-
-</td>
-<td width="50%" valign="top">
-
-#### [🧠 Mundo de Wumpus](https://github.com/eltonbarbosaa/Mundo-de-Wumpus)
-
-Agente inteligente clássico da IA simbólica — disciplina de Inteligência Computacional (UFPA).
-
-`Python` `Inteligência Artificial`
-
-- Implementação do problema clássico do **Wumpus World**
-- Lógica de agente autônomo com percepção e tomada de decisão
-- Projeto acadêmico — Faculdade de Engenharia da Computação (UFPA/Tucuruí)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [🎵 Spotify Clone (React)](https://github.com/eltonbarbosaa/spotify-react)
-
-Interface inspirada no Spotify construída em React.
-
-`React` `JavaScript` `CSS`
-
-- Prática de componentização e estilização em React
-
-</td>
-<td width="50%" valign="top">
-
-#### [📚 Outros repositórios](https://github.com/eltonbarbosaa?tab=repositories)
-
-Estudos e projetos de imersão.
-
-`HTML` `CSS` `JavaScript`
-
-- [Spotify — Imersão Alura](https://github.com/eltonbarbosaa/spotify-imersao-alura) — projeto da Imersão Dev da Alura
-- [HTML/CSS](https://github.com/eltonbarbosaa/html-css) — exercícios e estudos de fundamentos web
-
-</td>
-</tr>
-</table>
-
----
-
-## 📫 Contato
+## 📊 GitHub Stats
 
 <div align="center">
 
-Aberto a conexões, colaborações e novos desafios em **Dados, IA e Desenvolvimento**!
+| 📈 Contributions | 🔥 Streaks |
+|------------------|------------|
+| ![](https://github-readme-stats.vercel.app/api?username=eltonbarbosaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com?user=eltonbarbosaa&theme=tokyonight&hide_border=true) |
 
-[![LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eltonsilvabarbosa/)
+| 💻 Languages | 📋 Summary |
+|--------------|---------------------|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonbarbosaa&layout=compact&theme=tokyonight&hide_border=true&count_private=true) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltonbarbosaa&theme=tokyonight) |
 
 </div>
 
----
+## 🌎 Onde me encontrar
 
-<div align="center">
-<sub>Feito por Elton Barbosa</sub>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/eltonsilvabarbosa/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eltonsilvabarbosa/" /></a>
+</p>
